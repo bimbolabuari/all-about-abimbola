@@ -30,9 +30,8 @@
     <option value="ogun state">
     <option value="oyo state">
     <option value="osun state">
-    <option value="ondo state">
+    <input type="submit">
   </datalist>
-  <input type="submit">
 </form> 
 <h3>Contact Information</h3>
 <form action="/action_page.php">
